@@ -13,4 +13,4 @@ Atualmente, minha pilha é:
 
 Mas também usei em projetos:
 
-<img src="https://user-images.githubusercontent.com/62677231/147481439-e8ab22e2-fee7-4986-8c3e-b12ccb4abe63.png" height="288px" width="288px"/>
+<img src="https://user-images.githubusercontent.com/62677231/147481439-e8ab22e2-fee7-4986-8c3e-b12ccb4abe63.png" height="288" width="288"/>
