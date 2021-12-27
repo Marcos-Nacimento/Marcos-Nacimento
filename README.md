@@ -7,5 +7,5 @@
 
 Atualmente, minha pilha é:
 
-Iphone Aplicativos móveis para Android e iOS com React Native
-computador Desenvolvimento de front-end da Web com ReactJs
+📱 Aplicativos móveis para Android e iOS com React Native
+🖥 Desenvolvimento de front-end da Web com ReactJs
