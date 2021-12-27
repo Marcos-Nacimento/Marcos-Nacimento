@@ -13,4 +13,4 @@ Atualmente, minha pilha é:
 
 Mas também usei em projetos:
 
-https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png
+![javascript](https://user-images.githubusercontent.com/62677231/147481439-e8ab22e2-fee7-4986-8c3e-b12ccb4abe63.png)
