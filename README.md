@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estou trabalhando como Freelancer
 - 🌱 Atualmente estou aprendendo Nextjs
-- 💬 Pergunte-me sobre ReactNative, ReactJs, NodeJs, JavaScript
+- 💬 Pergunte-me sobre ReactNative, ReactJs, NodeJs, JavaScript, Nextjs
 - 📫 Como entrar em contato comigo: marcosftp1@gmail.com
 
 Atualmente, minha pilha é:
