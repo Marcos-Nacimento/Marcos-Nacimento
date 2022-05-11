@@ -1,4 +1,4 @@
-### Olá Amigo 👋 Sou Marcos Nascimento
+### Hey friends 👋 I`m Marcos
 
 - 🔭 Atualmente estou trabalhando como Freelancer
 - 🌱 Atualmente estou aprendendo Nextjs
